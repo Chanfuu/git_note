@@ -1,1 +1,6 @@
 git add
+git commit
+git status
+git log --oneline
+
+git reset --hard/soft/mixed 版本号
