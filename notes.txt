@@ -9,3 +9,6 @@ git diff 		比较工作区和暂存区差异
 git diff HEAD	比较工作区和版本差异
 git diff cached	比较暂存区和版本差异
 git diff 版本号1 版本号2	比较两个版本的差异 
+
+添加.gitignore文件,文件写上要忽略的文件
+文件夹在后面加/,例如忽略.vscode/
