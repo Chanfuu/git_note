@@ -4,3 +4,7 @@ git status
 git log --oneline
 
 git reset --hard/soft/mixed 版本号
+
+git diff 		比较工作区和暂存区差异
+git diff HEAD	比较工作区和版本差异
+git diff cached	比较暂存区和版本差异 
